@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: surendra157/ultimate-cicd:6
         ports:
-        - containerPort: 8000
+        - containerPort: 8080
